@@ -1,0 +1,15 @@
+@font-face{
+    font-family: '方正卡通简体';
+    font-display: swap;
+    src: url('/font/方正卡通简体.ttf') format("truetype");
+}
+
+@font-face{
+    font-family: '方正稚艺简体';
+    font-display: swap;
+    src: url('/font/方正稚艺简体.ttf') format("truetype");
+}
+
+body {
+    font-family: '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";
+}
