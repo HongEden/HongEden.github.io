@@ -10,6 +10,12 @@
     src: url('/font/方正稚艺简体.ttf') format("truetype");
 }
 
+@font-face{
+    font-family: 'segoescb';
+    font-display: swap;
+    src: url('/font/segoescb.ttf') format("truetype");
+}
+
 body {
-    font-family: '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";
+    font-family: '方正卡通简体', 'segoescb', '方正稚艺简体', "Microsoft YaHei";
 }
