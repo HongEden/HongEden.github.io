@@ -20,6 +20,17 @@
     
     
     <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -42,20 +53,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/font.css"/>
-      <url>/css/font.css</url>
-      
-        <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}body {    font-family: '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -75,11 +75,11 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title></title>
+      <link href="/css/font.css"/>
+      <url>/css/font.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}body {    font-family: '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";}]]></content>
       
     </entry>
     
