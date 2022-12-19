@@ -8,7 +8,7 @@
       <link href="/2022/12/18/%E5%BB%BA%E7%AB%99%E5%85%AC%E5%91%8A/"/>
       <url>/2022/12/18/%E5%BB%BA%E7%AB%99%E5%85%AC%E5%91%8A/</url>
       
-        <content type="html"><![CDATA[<h2 id="建站缘起"><a href="#建站缘起" class="headerlink" title="建站缘起"></a>建站缘起</h2><p>因为不可抗力因素，某大学于2022年11月29日夜发出离校通知，被迫连夜返乡。<br>在大部分课已经结课且回到家中的前提下，运用电子产品进行了长达15日的娱乐活动。<br>由于某大学的奇妙教学安排，于2022年12月15日提前完成课程任务，大步迈入寒假状态。<br>鉴于上半个月近乎虚度，倍感寒假生活颇为无聊，遂萌生建站想法。</p><h2 id="建站时间"><a href="#建站时间" class="headerlink" title="建站时间"></a>建站时间</h2><p>一个光辉的时刻，2022年12月16日。</p><h2 id="建站目的"><a href="#建站目的" class="headerlink" title="建站目的"></a>建站目的</h2><p>建立一个属于个人的伊甸园(Eden)，记录生活中的闲言碎语。</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="建站缘起"><a href="#建站缘起" class="headerlink" title="建站缘起"></a>建站缘起</h2><p>· 因为不可抗力因素，某大学于2022年11月29日夜发出离校通知，被迫连夜返乡。<br>· 在大部分课已经结课且回到家中的前提下，运用电子产品进行了长达15日的娱乐活动。<br>· 由于某大学的奇妙教学安排，于2022年12月15日提前完成课程任务，大步迈入寒假状态。<br>· 鉴于上半个月近乎虚度，倍感寒假生活颇为无聊，遂萌生建站想法。</p><h2 id="建站时间"><a href="#建站时间" class="headerlink" title="建站时间"></a>建站时间</h2><p>一个光辉的时刻，2022年12月16日。</p><h2 id="建站目的"><a href="#建站目的" class="headerlink" title="建站目的"></a>建站目的</h2><p>建立一个属于个人的伊甸园(Eden)，记录生活中的闲言碎语。</p>]]></content>
       
       
       
@@ -20,9 +20,42 @@
     
     
     <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/font.css"/>
+      <url>/css/font.css</url>
+      
+        <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}@font-face{    font-family: 'segoescb';    font-display: swap;    src: url('/font/segoescb.ttf') format("truetype");}body {    font-family: '方正卡通简体', 'segoescb', '方正稚艺简体', "Microsoft YaHei";}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -42,44 +75,11 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/font.css"/>
-      <url>/css/font.css</url>
-      
-        <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}@font-face{    font-family: 'segoescb';    font-display: swap;    src: url('/font/segoescb.ttf') format("truetype");}body {    font-family: '方正卡通简体', 'segoescb', '方正稚艺简体', "Microsoft YaHei";}]]></content>
       
     </entry>
     
