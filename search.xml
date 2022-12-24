@@ -8,7 +8,7 @@
       <link href="/2022/12/24/%E4%BD%9B%E5%B1%B1%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A/"/>
       <url>/2022/12/24/%E4%BD%9B%E5%B1%B1%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A/</url>
       
-        <content type="html"><![CDATA[<p>感觉画广州佛山地铁线网图的很多，但单独画佛山地铁的比较少。佛联邦什么时候能有自主性（悲）（天方夜谭）。画到一半发现，佛山地铁还是需要和广州地铁一起才能较好地共同组成地铁网络。</p><p>按照佛山地铁十年磨一线的传统，这张网也算是异想天开哩。不过比起东莞地铁还是好一点点的，毕竟成网了（再悲）。</p><p><img src="/article/fotie.jpg" alt="fotie"></p><p>（个人主观推断成分较多，不代表准确数据和官方意见）</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-绘图经历"><a href="#1-绘图经历" class="headerlink" title="1.绘图经历"></a>1.绘图经历</h2><p>感觉画广州佛山地铁线网图的很多，但单独画佛山地铁的比较少。佛联邦什么时候能有自主性（悲）（天方夜谭）。画到一半发现，佛山地铁还是需要和广州地铁一起才能较好地共同组成地铁网络。</p><p>按照佛山地铁十年磨一线的传统，这张网也算是异想天开哩。不过比起东莞地铁还是好一点点的，毕竟成网了（再悲）。</p><h2 id="2-佛铁全图"><a href="#2-佛铁全图" class="headerlink" title="2.佛铁全图"></a>2.佛铁全图</h2><p><img src="/article/3/%E4%BD%9B%E9%93%81.jpg" alt="佛铁"></p><h2 id="3-区域线网"><a href="#3-区域线网" class="headerlink" title="3.区域线网"></a>3.区域线网</h2><p><img src="/article/3/%E7%A6%85%E5%9F%8E%E6%A1%82%E5%9F%8E.jpg" alt="禅城桂城"><br><img src="/article/3/%E5%A4%A7%E8%89%AF%E5%AE%B9%E6%A1%82.jpg" alt="大良容桂"><br><img src="/article/3/%E5%8C%97%E6%BB%98%E9%99%88%E6%9D%91.jpg" alt="北滘陈村"></p><p>（个人主观推断成分较多，不代表准确数据和官方意见）</p>]]></content>
       
       
       
@@ -57,17 +57,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/font.css"/>
-      <url>/css/font.css</url>
-      
-        <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}@font-face{    font-family: 'segoescb';    font-display: swap;    src: url('/font/segoescb.ttf') format("truetype");}@font-face{    font-family: 'ZhouFangRiMingTi-2';    font-display: swap;    src: url('/font/ZhouFangRiMingTi-2.otf') format("truetype");}body {    font-family: 'ZhouFangRiMingTi-2', 'segoescb', '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -79,22 +68,11 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title></title>
+      <link href="/css/font.css"/>
+      <url>/css/font.css</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}@font-face{    font-family: 'segoescb';    font-display: swap;    src: url('/font/segoescb.ttf') format("truetype");}@font-face{    font-family: 'ZhouFangRiMingTi-2';    font-display: swap;    src: url('/font/ZhouFangRiMingTi-2.otf') format("truetype");}body {    font-family: 'ZhouFangRiMingTi-2', 'segoescb', '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";}]]></content>
       
     </entry>
     
@@ -115,6 +93,28 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
