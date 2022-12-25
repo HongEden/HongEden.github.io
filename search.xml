@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>中国建筑概说</title>
+      <link href="/2022/12/25/%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AD%91%E6%A6%82%E8%AF%B4/"/>
+      <url>/2022/12/25/%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AD%91%E6%A6%82%E8%AF%B4/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-中国建筑特征"><a href="#1-中国建筑特征" class="headerlink" title="1. 中国建筑特征"></a>1. 中国建筑特征</h2><h3 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h3><p>20世纪初以前的.历史上的建筑（传统建筑）<br>不包括西式的、欧化的建筑（清华大学礼堂），也不包括具有中国特色的现代建筑（中山陵）</p><h3 id="归属"><a href="#归属" class="headerlink" title="归属"></a>归属</h3><p>东亚建筑体系（其中还包括日本、朝鲜丰岛、越南的传统建筑【受中国影响】）<br>中国建筑：起源性，中心性，造型、结构和地域风格上的多样性</p><h3 id="特征"><a href="#特征" class="headerlink" title="特征"></a>特征</h3><p>（一）梁思成<br>　　1.以木料为主要构材；<br>　　2.构架制之结构原则；<br>　　3.以斗拱为结构关键；<br>　　4.外部轮廓形式特异。</p><p>（二）与西方不同之处【梁思成】<br>　　1.不求原物长存的观念；<br>　　2.建筑活动受道德观念约束；<br>　　3.建筑布局重视等级与规制；<br>　　4.建筑艺术与技术靠师传传承，不依赖于书面传承。</p><p>（三）艺术方面【梁思成】<br>　　1.翼展的屋顶造型，“如鸟斯革，如翚斯飞” “上尊而宇卑，则以水疾而雷远”；<br>　　2.崇厚高大的建筑台基；<br>　　3.正去面多为玲珑透剔的核造型：前廊（阴影）、勾栏、门窗、格扇；<br>　　4.建筑群有多重院落组成：庭院深深深几许，侯门深似海；<br>　　5.建筑色彩施用：白色台基、黄色（绿色、蓝色）屋瓦、檐下彩绘（保护木村、创造室内华丽气氛、华美外观，等级分划）；<br>　　6.建筑平面：整齐对整式，自由多变式；<br>　　7.在石结构力学特征上的认知不足（仿木石结构，违反石材的特性）。</p><p>（四）刘敦桢<br>　　1.承重与围护结构分工明确；<br>　　2.对各种气候特征的充分适应性；<br>　　3.具有一定的减少地震危害的可能作用，主要是木构架及斗拱，对地震水平推力所产生的内应力有缓解释放的作用；<br>　　4.材料供应比较方便。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>佛山地铁线网图2027+（个人yy版）😝</title>
       <link href="/2022/12/24/%E4%BD%9B%E5%B1%B1%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A/"/>
       <url>/2022/12/24/%E4%BD%9B%E5%B1%B1%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A/</url>
@@ -46,17 +59,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -73,6 +75,17 @@
       <url>/css/font.css</url>
       
         <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}@font-face{    font-family: 'segoescb';    font-display: swap;    src: url('/font/segoescb.ttf') format("truetype");}@font-face{    font-family: 'ZhouFangRiMingTi-2';    font-display: swap;    src: url('/font/ZhouFangRiMingTi-2.otf') format("truetype");}body {    font-family: 'ZhouFangRiMingTi-2', 'segoescb', '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -101,9 +114,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -112,9 +125,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
