@@ -95,20 +95,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -128,20 +117,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -155,6 +133,28 @@
       <url>/css/font.css</url>
       
         <content type="html"><![CDATA[@font-face{    font-family: '方正卡通简体';    font-display: swap;    src: url('/font/方正卡通简体.ttf') format("truetype");}@font-face{    font-family: '方正稚艺简体';    font-display: swap;    src: url('/font/方正稚艺简体.ttf') format("truetype");}@font-face{    font-family: 'segoescb';    font-display: swap;    src: url('/font/segoescb.ttf') format("truetype");}@font-face{    font-family: 'ZhouFangRiMingTi-2';    font-display: swap;    src: url('/font/ZhouFangRiMingTi-2.otf') format("truetype");}body {    font-family: 'ZhouFangRiMingTi-2', 'segoescb', '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
