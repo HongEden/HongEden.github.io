@@ -22,6 +22,26 @@
     src: url('/font/ZhouFangRiMingTi-2.otf') format("truetype");
 }
 
+@font-face{
+    font-family: 'msjh';
+    font-display: swap;
+    src: url('/font/msjh.ttc') format("truetype");
+}
+
+
+@font-face{
+    font-family: '微软正黑体';
+    font-display: swap;
+    src: url('/font/微软正黑体.ttf') format("truetype");
+}
+
+@font-face{
+    font-family: 'times';
+    font-display: swap;
+    src: url('/font/times.ttf') format("truetype");
+}
+
+
 body {
-    font-family: 'ZhouFangRiMingTi-2', 'segoescb', '方正卡通简体', '方正稚艺简体', "Microsoft YaHei";
+    font-family:  'times', '微软正黑体', "Microsoft YaHei", 'msjh', 'ZhouFangRiMingTi-2', 'segoescb', '方正卡通简体', '方正稚艺简体';
 }
